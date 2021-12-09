@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Coding-bootcamp-testimonials-slider/static/css/main.ceb4562d.chunk.css",
+    "main.js": "/Coding-bootcamp-testimonials-slider/static/js/main.7d8c9794.chunk.js",
+    "main.js.map": "/Coding-bootcamp-testimonials-slider/static/js/main.7d8c9794.chunk.js.map",
+    "runtime-main.js": "/Coding-bootcamp-testimonials-slider/static/js/runtime-main.aab54887.js",
+    "runtime-main.js.map": "/Coding-bootcamp-testimonials-slider/static/js/runtime-main.aab54887.js.map",
+    "static/js/2.77172575.chunk.js": "/Coding-bootcamp-testimonials-slider/static/js/2.77172575.chunk.js",
+    "static/js/2.77172575.chunk.js.map": "/Coding-bootcamp-testimonials-slider/static/js/2.77172575.chunk.js.map",
+    "index.html": "/Coding-bootcamp-testimonials-slider/index.html",
+    "static/css/main.ceb4562d.chunk.css.map": "/Coding-bootcamp-testimonials-slider/static/css/main.ceb4562d.chunk.css.map",
+    "static/js/2.77172575.chunk.js.LICENSE.txt": "/Coding-bootcamp-testimonials-slider/static/js/2.77172575.chunk.js.LICENSE.txt",
+    "static/media/icon-next.0aa189db.svg": "/Coding-bootcamp-testimonials-slider/static/media/icon-next.0aa189db.svg",
+    "static/media/icon-prev.f72bba8e.svg": "/Coding-bootcamp-testimonials-slider/static/media/icon-prev.f72bba8e.svg",
+    "static/media/image-john.5253a557.jpg": "/Coding-bootcamp-testimonials-slider/static/media/image-john.5253a557.jpg",
+    "static/media/image-tanya.f54c0657.jpg": "/Coding-bootcamp-testimonials-slider/static/media/image-tanya.f54c0657.jpg",
+    "static/media/pattern-bg.7f46e67e.svg": "/Coding-bootcamp-testimonials-slider/static/media/pattern-bg.7f46e67e.svg",
+    "static/media/pattern-curve.05698a95.svg": "/Coding-bootcamp-testimonials-slider/static/media/pattern-curve.05698a95.svg",
+    "static/media/pattern-quotes.219bd182.svg": "/Coding-bootcamp-testimonials-slider/static/media/pattern-quotes.219bd182.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab54887.js",
+    "static/js/2.77172575.chunk.js",
+    "static/css/main.ceb4562d.chunk.css",
+    "static/js/main.7d8c9794.chunk.js"
+  ]
+}
